@@ -1,0 +1,22 @@
+
+
+
+
+footer{
+
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: #343a40;
+    color:white;
+    height: 50px;
+    font-family: 'Tenali Ramakrishna', sans-serif; font-size: 22px;
+   
+   
+
+}
+
+footer p {
+    margin-top: 10px;
+}
