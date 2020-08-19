@@ -4,4 +4,4 @@
   
   
   
-  Está aplicação trabalha a responsividade para desktop e mobile.
+  Está aplicação trabalha a responsividade para desktop e mobile fazendo o uso do Bootstrap.
